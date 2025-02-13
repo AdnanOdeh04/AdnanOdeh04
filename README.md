@@ -44,6 +44,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdnanOdeh04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  <img src="https://leetcard.jacoblin.cool/AdnanOdeh04?theme=dark" height="150" width="400" alt="LeetCode Stats">
 
+ <hr width="36%">
+<h3>Adnan Odeh's GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdnanOdeh04&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdnanOdeh04"></p>
+
+<p><br><br><br><br><br><br><br></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdnanOdeh04&show_icons=true&theme=dark&locale=en" alt="AdnanOdeh04"></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanOdeh04&theme=dark" alt="AdnanOdeh04"></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
 </div>
 
 ###
