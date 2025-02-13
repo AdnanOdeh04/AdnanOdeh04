@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying Software Engineering at Birzeit University<br>🤖 Working on AI projects, and creating neural networks<br>🎯 Goals: Build innovative AI solutions and become a better problem solver</p><br>📫How to Reach Me <a>adnanodeh2004@gmail.com</a>
+<p align="left">📚 I'm currently studying Software Engineering at Birzeit University<br>🤖 Working on AI projects, and creating neural networks<br>🎯 Goals: Build innovative AI solutions and become a better problem solver</p>[📫How to Reach Me](mailto:adnanodeh2004@gmail.com)
 
 ###
 
