@@ -51,16 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdnanOdeh04&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdnanOdeh04"></p>
 
-<p><br><br><br><br><br><br><br></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdnanOdeh04&show_icons=true&theme=dark&locale=en" alt="AdnanOdeh04"></p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanOdeh04&theme=dark" alt="AdnanOdeh04"></p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
 
 </div>
 
